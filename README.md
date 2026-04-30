@@ -1,7 +1,7 @@
 # Prompt Optimizer
 
-A cli tool that optimizes the tokens with AI prompt
-You can make your prompts more efiicient before using on ChatGPT, Claude.
+A CLI tool for optimizing AI prompts. 
+Reduce token usage and improve efficiency before running prompts on ChatGPT or Claude.
 
 ## Features
 
