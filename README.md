@@ -27,9 +27,7 @@ Reduce token usage and improve efficiency before running prompts on ChatGPT or C
 ### How to install
 
 ```bash
-# 저장소 클론
 git clone https://github.com/jeoninch요즘/prompt-optimizer.git
 cd prompt-optimizer
 
-# 의존성 설치
 pip install -r requirements.txt
